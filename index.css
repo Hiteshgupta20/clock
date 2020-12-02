@@ -1,0 +1,47 @@
+#Clock-container{
+    position: relative;
+   background: url(This\ item\ is\ unavailable.jpg);
+   width: 30vw;
+   height: 40vw;
+  background-size: 100%;
+   background-repeat: no-repeat;
+   margin: auto;
+   
+   
+}
+#hour,#minute,#second{
+   position: absolute;
+   border-radius: 5px;
+   background-color: black;
+   transform-origin: bottom;
+}
+
+#hour{
+    width: 1.8%;
+    height: 23%;
+    top: 26%;
+    left: 49.10%;
+    opacity: 0.9;
+    
+   
+}
+#minute{
+    width: 1.6%;
+    height: 26%;
+    top: 23%;
+    left: 49.3%;
+    opacity: 0.9;
+      
+   
+}
+#second{
+    width: 1%;
+    height: 30%;
+    top: 19%;
+    left: 49.6%;
+    opacity: 0.8;
+   
+   
+   
+
+}
