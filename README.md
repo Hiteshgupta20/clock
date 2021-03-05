@@ -5,5 +5,6 @@ A native JavaScript library used to render an Analog Clock on the webpage using 
 - Css3
 - JavaScript
 - IDE: Visual Studio
+- OS: Windows
 
 
